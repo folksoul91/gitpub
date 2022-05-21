@@ -1,0 +1,10 @@
+/* ================ */
+/*     GENERAL      */
+/* ================ */
+body {
+  background-image: url("https://images.pexels.com/photos/172278/pexels-photo-172278.jpeg?cs=srgb&dl=pexels-fwstudio-172278.jpg&fm=jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  margin: 0;
+  padding: 0;
+}
